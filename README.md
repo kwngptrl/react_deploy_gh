@@ -111,7 +111,7 @@ $ git add .
 Pete@DESKTOP-V0SQTFO MINGW64 /e/WebDev/react_series/23tut-gh/react_deploy_gh (main)
 $ git commit -m "formal commit, deploying to github pages"
 [main f21df6c] formal commit, deploying to github pages
- 2 files changed, 334 insertions(+)									// Then from 'Source Control' I 'Sync with origin/main' or something similar, the changes in the lefthand side.
+ 2 files changed, 334 insertions(+)									// Then from 'Source Control' I 'Push x commits to origin/main' or something similar, the changes in the lefthand side.
 																	// a pop-up will show twice, just press ENTER.
 From the terminal:
 Pete@DESKTOP-V0SQTFO MINGW64 /e/WebDev/react_series/23tut-gh/react_deploy_gh (main)
